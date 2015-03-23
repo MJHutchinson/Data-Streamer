@@ -1,0 +1,4 @@
+.bordered{
+    -fx-border-width: 0,0,10,10;
+    -fx-border-color: #000000;
+}
